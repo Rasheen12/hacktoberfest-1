@@ -1,3 +1,11 @@
+#### Name: [Rasheen Ruwisha Nalish](https://github.com/Rasheen12)
+
+ - Place: Kaldemulla, Moratuwa, Sri Lanka
+
+ - Bio: Computer Science @ University Of Westminster
+
+ - GitHub: [Rasheen12](https://github.com/Rasheen12)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
